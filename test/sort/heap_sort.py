@@ -1,7 +1,7 @@
 #!/user/bin/python
 # -*- coding=utf-8 -*-
 
-
+#https://www.jianshu.com/p/6b526aa481b1
 def heapfi(alist,n,i):
     lagest = i
     l = 2*i+1
